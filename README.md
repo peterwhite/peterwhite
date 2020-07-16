@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+For the last decade, I've built beautiful websites and web applications.
+
+I work with PHP, Laravel, JavaScript, Vue, React, Jekyll and WordPress.
+
+Previous products and projects include SaaS platform JobBoard.io, IaaS platform Bytemark Cloud and numerous projects for global firms (such as Thomson Reuters and NHS England), SMEs, charities and startups.
+
+See my previous projects [here](https://peterwhite.dev/projects) or [get in touch.](https://peterwhite.dev/contact)
+
+Think we could work together, or just fancy a chat? Email me at hi[at]peterwhite.dev.
