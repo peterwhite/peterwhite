@@ -1,6 +1,6 @@
-<h1>Nice to meet you!</h1>
+# Nice to meet you!
 
-I'm a full-stack developer and entrepreneur based in York, England.
+I'm a full-stack developer and entrepreneur based in York, England. 
 
 I build beautiful websites and powerful web applications with a wide range of technologies, including PHP, Laravel, JavaScript, Vue, React, Jekyll and WordPress.
 
@@ -52,7 +52,7 @@ Previous products and projects include SaaS platform JobBoard.io, IaaS platform 
 
 
 
-### Hire Me
+## Hire Me
 
 I am available for remote freelance and contracting roles, as either a Product Owner or flexible Full Stack Developer. 
 
