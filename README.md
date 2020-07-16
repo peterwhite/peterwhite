@@ -56,5 +56,5 @@ Previous products and projects include SaaS platform JobBoard.io, IaaS platform 
 
 I am available for remote freelance and contracting roles, as either a Product Owner or flexible Full Stack Developer. 
 
-Think we could work together? Email me at hi[at]peterwhite.dev.
+Think we could work together? Email me at hi[at]peterwhite.dev or [here's a handy contact form](https://peterwhite.dev/contact).
 
