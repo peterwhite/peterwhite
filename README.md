@@ -13,6 +13,7 @@ Previous products and projects include SaaS platform JobBoard.io, IaaS platform 
 
 
 ## Nice Things People Have Said
+I've worked with some lovely people who have said some nice things about my work as a Developer and Product Owner.
 
 > *Peter is a pro and a pleasure to work with. He's the type of technical go-to person every team needs, always with an eye on the business case. He's also very easy to speak too and really knows his stuff.*
 >
