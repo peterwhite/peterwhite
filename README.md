@@ -53,9 +53,7 @@ I've worked with some lovely people who have said some nice things about my work
 
 
 
-## Hire Me
-
-I am available for remote freelance and contracting roles, as either a (Technical) Product Owner or Full Stack Developer. 
+## Get in Touch
 
 Think we could work together? Email me at hi[at]peterwhite.dev or [here's a handy contact form](https://peterwhite.dev/contact).
 
