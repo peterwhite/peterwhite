@@ -1,6 +1,6 @@
 # Nice to meet you!
 
-I'm a full-stack developer and entrepreneur based in York, England. 
+I'm a full-stack developer and entrepreneur based in Oslo, Norway. 
 
 I build beautiful websites and powerful web applications with a wide range of technologies, including PHP, Laravel, JavaScript, Vue, React, Jekyll and WordPress.
 
