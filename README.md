@@ -6,7 +6,7 @@ Proud to be part of the engineering team at IndyRiot; building better online com
 
 Originally from Yorkshire in the UK, I have been living in Norway since 2021. Outside of technology, I spend my time learning Norwegian, walking in nature and listening to podcasts.
 
-*Some of my recent projects, see more in my portfolio [here](https://peterwhite.dev/).*
+*Read more on my personal website [here](https://peterwhite.dev/).*
 
 
 ## Nice Things People Have Said
