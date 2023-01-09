@@ -1,15 +1,12 @@
 # Nice to meet you!
 
-I'm a full-stack developer and entrepreneur based in Oslo, Norway. 
+Happily building things on the internet since 2008.
 
-I build beautiful websites and powerful web applications with a wide range of technologies, including PHP, Laravel, JavaScript, Vue, React, Jekyll and WordPress.
+Proud to be part of the engineering team at IndyRiot; building better online communities.
 
-<img src="https://github.com/peterwhite/peterwhite/blob/master/projects.jpg" />
+Originally from Yorkshire in the UK, I have been living in Norway since 2021. Outside of technology, I spend my time learning Norwegian, walking in nature and listening to podcasts.
 
-*Some of my recent projects, see more in my portfolio [here](https://peterwhite.dev/projects).*
-
-Previous products and projects include SaaS platform JobBoard.io, IaaS platform Bytemark Cloud and numerous projects for global firms (such as Thomson Reuters and NHS England), SMEs, charities and startups.
-
+*Some of my recent projects, see more in my portfolio [here](https://peterwhite.dev/).*
 
 
 ## Nice Things People Have Said
